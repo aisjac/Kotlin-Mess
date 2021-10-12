@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Kotlin Mess</string>
+    <string name="first_slider_text">We Will \nNotifiy You \nAbout Everything</string>
+    <string name="second_slider_text">No More \nCalculation \nProblem</string>
+    <string name="third_slider_text">Handy, \nAll Information \nIn One Place</string>
+    <string name="all_slider_common_text">By clicking you will agree with our <b>Terms &amp; Conditions</b> and our <b>Privacy Policy</b></string>
+    <string name="login_guideline">Enter your Email and Password</string>
+    <string name="register_guideline">Enter Your Information To Continue</string>
+    <string name="verification_guideline">We’ve send you a verification OTP. Please check your mobile or email for code</string>
+    <string name="create_join_popup_guideline_1"><b>Getting Started Wizard</b></string>
+    <string name="create_join_popup_guideline_2"><b>Choose what kind of account you \nwant to create</b></string>
+</resources>
