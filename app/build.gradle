@@ -43,6 +43,9 @@ dependencies {
 
     //ViewPager
     implementation 'com.synnapps:carouselview:0.1.4'
+    //dotIndicator
+    implementation 'com.tbuonomo:dotsindicator:4.2'
+
 
 
     //Retrofit

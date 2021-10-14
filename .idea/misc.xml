@@ -3,12 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/drawable/active_circle.xml" value="0.2846153846153846" />
+        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/drawable/disable_circle.xml" value="0.2846153846153846" />
         <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/activity_login.xml" value="0.22" />
-        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/activity_main2.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/activity_registration.xml" value="0.1425925925925926" />
         <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/activity_splashscreen.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/carousel_item.xml" value="0.25" />
+        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/fragment__one.xml" value="0.33" />
+        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/fragment__three.xml" value="0.33" />
+        <entry key="..\:/Users/Project X Ltd/Desktop/KotlinMess/app/src/main/res/layout/fragment__two.xml" value="0.33" />
       </map>
     </option>
   </component>
@@ -21,7 +26,7 @@
   <component name="VisualizationToolProject">
     <option name="state">
       <ProjectState>
-        <option name="scale" value="0.2" />
+        <option name="scale" value="0.33" />
       </ProjectState>
     </option>
   </component>
