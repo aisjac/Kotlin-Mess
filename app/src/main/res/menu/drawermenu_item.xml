@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawermenuOne"
+            android:icon="@drawable/home_menuitem"
+            android:title="Dashboard" />
+
+
+        <item
+            android:id="@+id/drawermenutwo"
+            android:icon="@drawable/member_menuitem"
+            android:title="Add Deposite" />
+
+
+        <item
+            android:id="@+id/drawermenuthree"
+            android:icon="@drawable/notification_menuitem"
+            android:title="Meal Chart" />
+
+        <item
+            android:id="@+id/drawermenuFour"
+            android:icon="@drawable/profile_menuiem"
+            android:title="Add Bazar Cost" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Manage Member">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+                    <item
+
+                        android:icon="@drawable/profile_menuiem"
+
+                        android:title="Sub item 1" />
+
+                </group>
+
+            </menu>
+
+        </item>
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+
+        <item android:title="Organize">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+                    <item
+
+                        android:icon="@drawable/profile_menuiem"
+
+                        android:title="Sub item 1" />
+
+                </group>
+
+            </menu>
+
+        </item>
+    </group>
+
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="Configure">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+                    <item
+
+                        android:icon="@drawable/profile_menuiem"
+
+                        android:title="Sub item 1" />
+
+                </group>
+
+            </menu>
+
+        </item>
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+
+        <item android:title="About">
+
+            <menu>
+
+                <group android:checkableBehavior="single">
+
+                    <item
+
+                        android:icon="@drawable/profile_menuiem"
+
+                        android:title="Sub item 1" />
+
+                </group>
+
+            </menu>
+
+        </item>
+
+    </group>
+
+
+</menu>

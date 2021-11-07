@@ -9,4 +9,6 @@
     <string name="verification_guideline">We’ve send you a verification OTP. Please check your mobile or email for code</string>
     <string name="create_join_popup_guideline_1"><b>Getting Started Wizard</b></string>
     <string name="create_join_popup_guideline_2"><b>Choose what kind of account you \nwant to create</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

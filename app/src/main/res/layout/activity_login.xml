@@ -204,7 +204,6 @@
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
                     android:text=" Register Now"
-                    android:onClick="registerNow"
                     android:textAlignment="textStart"
                     android:textColor="#2196F3" />
 

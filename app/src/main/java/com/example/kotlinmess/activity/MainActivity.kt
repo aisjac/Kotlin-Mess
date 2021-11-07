@@ -1,4 +1,4 @@
-package com.example.kotlinmess
+package com.example.kotlinmess.activity
 
 import android.annotation.SuppressLint
 import android.content.Intent
@@ -6,10 +6,11 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageView
 import androidx.viewpager.widget.ViewPager
-import com.emon.customsliderwithindicator.ViewPagerAdapter.Pager_Adapter
-import com.emon.customsliderwithindicator.ViewPagerFragments.Fragment_One
-import com.emon.customsliderwithindicator.ViewPagerFragments.Fragment_Three
-import com.emon.customsliderwithindicator.ViewPagerFragments.Fragment_Two
+import com.example.kotlinmess.adapter.Pager_Adapter
+import com.example.kotlinmess.fragment.Fragment_One
+import com.example.kotlinmess.fragment.Fragment_Three
+import com.example.kotlinmess.fragment.Fragment_Two
+import com.example.kotlinmess.R
 
 
 class MainActivity : AppCompatActivity() {
@@ -82,7 +83,7 @@ class MainActivity : AppCompatActivity() {
 
 
     fun continueWithEmail(view: android.view.View) {
-        val intent = Intent(this,LoginActivity::class.java )
+        val intent = Intent(this, LoginActivity::class.java )
         startActivity(intent)
     }
 

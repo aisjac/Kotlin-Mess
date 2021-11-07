@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/home_menuitem"
+        />
+
+
+    <item
+        android:id="@+id/memberFragment"
+        android:title="Member"
+        android:icon="@drawable/member_menuitem"
+        />
+
+
+    <item
+        android:id="@+id/notificationFragment"
+        android:title="Notification"
+        android:icon="@drawable/notification_menuitem"
+        />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/profile_menuiem"
+        />
+
+</menu>

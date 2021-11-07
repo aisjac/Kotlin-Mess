@@ -1,4 +1,4 @@
-package com.emon.customsliderwithindicator.ViewPagerAdapter
+package com.example.kotlinmess.adapter
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
